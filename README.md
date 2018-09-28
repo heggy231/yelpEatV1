@@ -1,5 +1,16 @@
 # yelpEatV1
-YelpEat is a restaurant review web app is accessible and responsive using #ARIA #ServiceWorker #MapBox #API #JSON #ChromeWebServer
+YelpEat is a restaurant review web app that incorporates accessibility ("a11y") for diverse users for diverse screen sizes with various network speed./
+
+Some statistics on disability for the US:/
+-----------------------------------------
+
+----
+> * Around 2% of the population has some kind of vision disability (i.e. are blind or have significant difficulty seeing even with glasses)
+> * Around 50% of the population has some kind of clinically significant refractive error (a visual impairment which may be corrected with glasses if mild enough)
+> * Around 8% of males and 0.5% of females have some form of color vision deficiency
+> * Around 2% of adults have a hearing disability
+> * Over 4% have a cognitive disability (difficulty remembering, concentrating, or making decisions)
+----
 
 ## Project Overview: Stage 1
 - Introduction video watch here >>> https://www.youtube.com/watch?time_continue=1&v=N-Tf905Oerk
