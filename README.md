@@ -1,5 +1,5 @@
 # yelpEatV1
-YelpEat is a restaurant review web app that incorporates accessibility ("a11y") for diverse users for diverse screen sizes with various network speed.
+YelpEat is a restaurant review web app that incorporates accessibility ("a11y") for diverse users for diverse screen sizes with various network speeds.
 
 Some statistics on disability for the US:
 -----------------------------------------
